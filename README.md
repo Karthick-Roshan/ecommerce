@@ -1,4 +1,4 @@
-# E-Commerce Customer Portal
+# ECommerce
 
 This is a full-stack e-commerce web application designed for **customers** to browse, search, and purchase products. This application includes user authentication, product search and filtering, cart management, and Razorpay-based payment gateway.
 
